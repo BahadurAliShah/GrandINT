@@ -27,7 +27,3 @@ zero.
 c) 2 arithmetic operators + and – (*, and / are omitted for this type to simplify the
 program).
 d) 6 comparison operators <, >, <=, >=, ==, and !=.
-Testing:
-Once the class is implemented you have to test it on the main function we provided and match
-it with the correct output of the function. Don’t forget to tweak the values in the function to ensure
-that your code is generic.
